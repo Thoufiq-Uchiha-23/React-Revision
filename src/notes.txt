@@ -1,0 +1,6 @@
+component ek function hai jo ki return karega jsx
+
+jsx html ki tarah dikhne wala synatax but uske paas kuch superpowers hai jo html ke pass nahi 
+
+
+React ka naam react isliye hai kyuki wo react karta hai jab bhi state change hoti hai, aur yahi model hai poore react ka, yahi uska heart hai aur yahi uske kaam karne ka tareeka hai
